@@ -1,34 +1,103 @@
-# Helen Caridad García González
+# Helen Caridad Garcia Gonzalez | aka ‘Helen’
 
-📍 Havana, Cuba  
-📞 (+53) 58512280  
+## Curriculum Vitae | 2025
+
 📧 helencaridadgarcia810@gmail.com  
 **Gender:** Female  
 **Date of Birth:** July 24, 1985
 
 ---
+### 💼 Profile Summary
+
+I am a Computer Science Engineer graduated from the University of Informatics Sciences. I have over 16 years of experience as a software developer, mostly in web development. I work mainly with agile methodologies and diverse technologies, always open to learning and adopting new tools.
+
+> “If you ever talk to a great programmer, you’ll find they know their tools like an artist knows their paintbrushes.” — Bill Gates
+
+---
+
+### 📫 Contacts
+
+- Email: helencaridadgarcia810@gmail.com
+- 📞 (+49) 1705582548
+- Address: Siebstraße 1A, 30171 Hannover, Germany
+
+---
+
+### 🛠 Technical Skills
+
+- **Programming Languages:** JavaScript, TypeScript, PHP, Ruby, HTML, CSS, SASS, XML, JSON, XSLT, BPEL
+- **Frameworks & Libraries:** Angular, Angular Material, jQuery, Symfony, PHPUnit, RSpec, Jest, Cucumber, Ruby on Rails, NodeJS, 
+SoapUI, Bootstrap, Materialize, Karma, Protractor, Jasmine, VueJs, Meteor
+- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Microsoft SQL Server
+- **Methodologies:** Scrum, XP, RUP
+- **ORM:** Doctrine, ActiveRecord (RoR), Hibernate, Mongoid
+- **Build Tools:** Docker
+- **Continuous Integration:** GitLab CI/CD, Jenkins, Bitbucket
+- **Collaboration Tools:** Pentaho PDI Kettle, Google Docs, Slack, Trello, Jira, Confluence, XAware, Intalio|BPM EE
+- **Other Tools:** Git, Jira, Maven, Ant, Heroku, Docker, Jenkins CI
+- **Operating Systems:** Windows, Linux, Android
+
+---
 
 ## 💼 Work Experience
 
-**Computer Programmer**  
-_Jan 2016 – Present_  
-[aleph].engineering, Hanover, Germany
-- Web development using PHP7 (Symfony), Ruby on Rails, VueJs, Node (Meteor), jQuery, JavaScript, CSS, HTML5
-- Utilized Bootstrap, Materialize frameworks
-- Testing with PHPUnit, Minitest, Mocha, Karma, Protractor, Jasmine, Cucumber, RSpec
+#### Cuban Engineer | 2016 - Present
 
-**Computer Programmer**  
-_Sep 2008 – Sep 2015_  
-DATYS, Santa Clara, Cuba
-- Web development with Ruby on Rails, BDD (Cucumber), TDD (RSpec), JavaScript, HTML, SaaS, CoffeeScript, XML, JSON, XSLT, BPEL
+**Projects:**
+
+- **Wassermeloni**  
+  Automating nearly all company processes.  
+  Team: 5 (1 PM, 2 Designers, 1 Backend, 1 Frontend)  
+  Technologies: Ruby on Rails, Postgres, Redis, Sidekiq, Searchkick, ActiveStorage, Doorkeeper, Kettle-Pentaho, RSpec, Docker, Angular Material.
+
+- **SKILLZ.ENGINEER (2nd Version)**  
+  Social network providing skill-level matrices for contacts and groups. Features adding contacts, groups, suggestions, and messaging.  
+  Team: 4 (Backend dev, Frontend dev, Designer, PM)  
+  Technologies: GraphQL with Rails backend, React/Apollo frontend.
+
+- **SKILLZ.ENGINEER (1st Version)**  
+  Similar social network platform.  
+  Team: 4 (2 developers, 1 designer, 1 PM)  
+  Technologies: Ruby on Rails, VueJS, Vuex, Bootstrap, Axios, Bootstrap-Vue, HTML5, CSS3, Sass, Babel, ESLint, Prettier, MongoDB, Unit Tests (MiniTest).
+
+- **CargoBee**  
+  Web application for German package delivery business to manage and optimize deliveries.  
+  Team: 5 (Backend, DevOps, Frontend, Designer, PM)  
+  Technologies: REST API with PHP7, Symfony 3.2, PHPUnit, Angular2, Material Design, HTML5, CSS3, MySQL.
+
+- **Researchdate**  
+  Web app for timestamping and verifying digital documents.  
+  Team: 5 (3 developers, designer, PM)  
+  Technologies: NodeJS with Meteor, HTML5, CSS3, Materialize, MongoDB, Unit tests with Mocha, e2e tests.
+
+- **Cuban Engineer Website**  
+  Company’s website.  
+  Team: 7 (5 developers, 1 designer, 1 PM)  
+  Technologies: WordPress.
+
+#### DATYS | 2009 - 2015
+
+- **Beesor**  
+  Survey system for Cuban government.  
+  Team: 10+ developers, 1 designer, 1 PM  
+  Technologies: Ruby on Rails, JavaScript, HTML, CSS, Sass, PostgreSQL, BDD + TDD (Cucumber, RSpec, Capybara).
 
 ---
 
 ## 🎓 Education and Training
 
-**Computer Science Engineer**  
-_University of Computer Sciences (UCI), Havana, Cuba_  
-_Sep 2003 – Jul 2008_
+**Computer Sciences Engineer**  
+_University of Informatics Sciences, Havana, Cuba_  
+2003 – 2008
+
+**Relevant knowledge and skills:**
+- Web Programming: HTML, CSS, JavaScript
+- Backend: PHP, Symfony, REST API
+- Databases: SQL, MySQL, PostgreSQL
+- Version Control Systems: Git, Subversion, GitHub, GitLab
+- Web Design: Adobe Photoshop, Gimp
+- Desktop Development: C++
+- Functional Skills: Teamwork, fast & continuous learning, and delivery
 
 ### General Courses
 - English (Levels I to V)
@@ -69,25 +138,18 @@ _Sep 2003 – Jul 2008_
 
 ---
 
-## 🛠 Technical Skills
+### 🤝 Soft Skills
 
-- **Languages:** PHP, JavaScript, Ruby, HTML, CSS, XML, JSON, XSLT, BPEL
-- **Frameworks and Tools:** Ruby on Rails, Symfony, SoapUI, Bootstrap, Materialize, Karma, Protractor, Jasmine, Cucumber, RSpec, jQuery, VueJs, Meteor
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Microsoft SQL Server
-- **ORMs:** Doctrine, ActiveRecord (RoR), Hibernate, Mongoid
-- **Others:** Maven, Ant, Heroku, Docker, Jenkins CI
-- **Operating Systems:** Windows, Linux, Android
-- **Collaboration Tools:** Pentaho PDI Kettle, Google Docs, Slack, Trello, Jira, Confluence, XAware, Intalio|BPM EE
+- Effective communication in team environments
+- Experience with large teams and pair programming
+- Agile methodologies adoption and continuous integration
 
 ---
 
-## 🤝 Communication & Organization
+### 📫 Contact
 
-- Strong communication skills, experienced in working with large teams and pair programming
-- Version control expertise: Git, Subversion, GitHub, GitLab, Bitbucket, Team Foundation Server
+Feel free to reach out for collaboration or to know more!
 
 ---
 
-## 📫 Contact
-
-Feel free to reach out if you want to know more or collaborate.
+*This CV is maintained on GitHub and available for updates.*
