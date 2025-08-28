@@ -3,6 +3,7 @@
 ## Curriculum Vitae | 2025
 
 📧 helencaridadgarcia810@gmail.com  
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/helen-caridad-garcia-gonzalez-9467b0103)
 **Gender:** Female  
 **Date of Birth:** July 24, 1985
 
