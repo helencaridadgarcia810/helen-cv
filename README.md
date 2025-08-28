@@ -41,7 +41,12 @@ SoapUI, Bootstrap, Materialize, Karma, Protractor, Jasmine, VueJs, Meteor
 
 ## 💼 Work Experience
 
-#### Cuban Engineer | 2016 - Present
+#### Wassermeloni  | 2024 - Present
+
+- **Wassermeloni**  
+  IT specialist.
+
+#### Cuban Engineer | 2016 - 2024
 
 **Projects:**
 
@@ -91,8 +96,8 @@ _University of Informatics Sciences, Havana, Cuba_
 2003 – 2008
 
 **Relevant knowledge and skills:**
-- Web Programming: HTML, CSS, JavaScript
-- Backend: PHP, Symfony, REST API
+- Web Programming: HTML, CSS, JavaScript, Angular
+- Backend: PHP, Symfony, RoR, REST API
 - Databases: SQL, MySQL, PostgreSQL
 - Version Control Systems: Git, Subversion, GitHub, GitLab
 - Web Design: Adobe Photoshop, Gimp
@@ -133,6 +138,7 @@ _University of Informatics Sciences, Havana, Cuba_
 |----------|---------------|-------------|------------|
 | Spanish  | Native        | Native      | Native     |
 | English  | B1-B2         | B2          | B1         |
+| German   | Learning      | Learning    | Learning   |
 
 *Levels according to the Common European Framework of Reference for Languages (CEFR)*
 
