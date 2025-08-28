@@ -1,11 +1,9 @@
 # Helen Caridad Garcia Gonzalez | aka ‘Helen’
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/helen-caridad-garcia-gonzalez-9467b0103)
 
 ## Curriculum Vitae | 2025
 
 📧 helencaridadgarcia810@gmail.com   
-<a href="https://www.linkedin.com/in/helen-caridad-garcia-gonzalez-9467b0103">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" alt="LinkedIn"/>
-</a>
 
 **Gender:** Female  
 **Date of Birth:** July 24, 1985
@@ -22,6 +20,7 @@ I am a Computer Science Engineer graduated from the University of Informatics Sc
 ### 📫 Contacts
 
 - Email: helencaridadgarcia810@gmail.com
+- 🔗 LinkedIn: [Helen Caridad Garcia](https://www.linkedin.com/in/helen-caridad-garcia-gonzalez-9467b0103)
 - 📞 (+49) 1705582548
 - Address: Siebstraße 1A, 30171 Hannover, Germany
 
